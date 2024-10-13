@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gokulvr17
+- 👋 Hi, I’m Gokul VR
 - 👀 I’m interested in developing, designing ...
-- 🌱 I’m currently learning Java , Figma 
+- 🌱 I’m currently working as a software engineer focused on front end ( React js) 
 - 📭 Contact me on krishnagokul2136@gmail.com
 
 
