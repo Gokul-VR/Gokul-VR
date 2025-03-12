@@ -12,7 +12,7 @@ I'm a **Front-End Developer** based in **India**, passionate about building smoo
 
 ## **🔗 Connect with Me**  
 📩 **LinkedIn** → [linkedin.com/in/gokul-v-155927134](https://www.linkedin.com/in/gokul-v-155927134/)  
-🌐 **Portfolio** → [your-portfolio-link]([https://your-portfolio-link.com](https://portfolio-gokul-vrs-projects.vercel.app/))
+🌐 **Portfolio** → https://portfolio-gokul-vrs-projects.vercel.app/
 
 
 <!---
