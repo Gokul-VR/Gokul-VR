@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Gokul!  
 **Front-End Developer | React Enthusiast | UI/UX Explorer**  
 
-I'm a **Front-End Developer** based in **India**, passionate about building smooth, dynamic, and interactive web experiences. I love working with **React.js, Tailwind CSS, and Framer Motion** to craft elegant UIs with seamless performance.  
+I'm a **Front-End Developer** based in **India**, passionate about building smooth, dynamic, and interactive web experiences. I love working with **React.js, Tailwind CSS, Gsap and Framer Motion** to craft elegant UIs with seamless performance.  
 
 ## **🏏 Outside of Coding**  
 - 🏏 **Cricket** – Love watching and playing  
